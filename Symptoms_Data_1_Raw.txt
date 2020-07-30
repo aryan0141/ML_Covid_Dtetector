@@ -1,0 +1,26 @@
+No Cough - 0
+Cough - 1
+
+No Fever - 0
+Fever - 1
+
+No_Sore_Throat - 0
+Sore_Throat - 1
+
+Shortness_Of_Breadth - (0/1)
+
+Head_Ache - (0/1)
+
+Gender-
+Male- 1
+Female- 0
+Transgender- (-1)
+
+Contact_History-
+No_Contact - (-1)
+Abroad - (0)
+Contact_With_Confirmed - (1)
+
+Corona_Result - 
+Negative - 0
+Positive - 1
